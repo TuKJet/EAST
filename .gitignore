@@ -1,0 +1,4 @@
+#ignore these files
+weight/*
+__pycache__/
+result/*
